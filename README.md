@@ -1,13 +1,6 @@
 
-### Ejemplo de Texto y Código
-
+### Instalar modulos y dependencias
+en la carpeta raiz instalar con "npm i"
+en la carpeta flask, se debe crear un espacio virtual y luego instalar las dependencias con el comando: 
 ```markdown
-```javascript
-// Código de ejemplo en JavaScript
-function helloWorld() {
- console.log('Hello, world!');
-}
-```markdown
-### otro texto 
-```javascript
-### otro texto 
+pip install -r requirements.txt
