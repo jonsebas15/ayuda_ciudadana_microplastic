@@ -1,0 +1,7 @@
+include
+lib
+Library
+Scripts
+share
+*.pyc
+__pycache__/
